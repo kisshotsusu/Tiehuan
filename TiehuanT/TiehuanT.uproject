@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -61,7 +61,6 @@
 	],
 	"TargetPlatforms": [
 		"Android",
-		"Windows",
-		"IOS"
+		"Windows"
 	]
 }
